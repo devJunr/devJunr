@@ -1,7 +1,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        ![Header](files/banner.png)
+        ![Header](https://raw.githubusercontent.com/drianojr/drianojr/main/files/banner.png)
 </h3>
 
 
