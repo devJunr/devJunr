@@ -2,6 +2,7 @@
 <!-- Intro  -->
 <h3 align="center">
         ![Header](./files/banner.png)
+        ![Texto Alternativo](.files/banner.png)
 </h3>
 
 
@@ -13,18 +14,6 @@
     <br>
   </samp>
 </p>
-
-
-<p align="center"> 
-  <samp>
-    <br>
-    - 💻 Estudante de Desenvolvimento Full Stack. <br>
-    - 👨🏽‍💻 Freelancer - Construção de sites e aplicações web. <br>
-    - 🔭 Explorando tecnologias como Python, API, ssh. <br>
-    - 🎓 Atualmente, estou buscando conhecimento por conta própria. <br>
-  </samp>
-</p>
-
 <div style="display: inline_block">
 
 ## Tecnologias mais utilizadas
