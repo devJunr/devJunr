@@ -1,5 +1,6 @@
+<center>
 ![Header](https://raw.githubusercontent.com/drianojr/drianojr/main/files/banner.png)
-
+</center>
 
 <p align="center"> 
   <samp>
