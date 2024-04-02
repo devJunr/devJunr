@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" title="Adriano-Logo" src="files/banner.png"/>
+    <img width="60%" title="Adriano-Logo" src="files/banner.png"/>
 <div>
 
 
