@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=drianojr&show_icons=true&count_private=true&hide_border=true&title_color=6C757D&icon_color=6C757D&text_color=6C757D&bg_color=0d1117" alt="Adriano Júnior github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoCoding&layout=compact&hide_border=true&title_color=6C757D&text_color=6C757D&bg_color=0d1117"/>              
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drianojr&layout=compact&hide_border=true&title_color=6C757D&text_color=6C757D&bg_color=0d1117"/>              
 </p></br>
 
 <!-- Troféus GitHub -->
