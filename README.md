@@ -38,12 +38,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=drianojr&show_icons=true&count_private=true&hide_border=true&title_color=6C757D&icon_color=6C757D&text_color=6C757D&bg_color=0d1117" alt="Adriano Júnior github stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drianojr&layout=compact&hide_border=true&title_color=6C757D&text_color=6C757D&bg_color=0d1117"/>              
 </p></br>
-
-<!-- Troféus GitHub -->
-<!-- Troque 'seu_usuario' pelo seu nome de usuário do GitHub -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=drianojr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p></br>
-
-<!-- Gráfico de atividade do GitHub -->
-<!-- Troque 'seu_usuario' pelo seu nome de usuário do GitHub -->
