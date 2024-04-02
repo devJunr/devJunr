@@ -1,8 +1,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        ![Header](./files/banner.png)
-        ![Texto Alternativo](.files/banner.png)
+        ![Header](files/banner.png)
 </h3>
 
 
