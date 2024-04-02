@@ -1,8 +1,4 @@
-
-<!-- Intro  -->
-<h3 align="center">
-        ![Header](https://raw.githubusercontent.com/drianojr/drianojr/main/files/banner.png)
-</h3>
+![Header](https://raw.githubusercontent.com/drianojr/drianojr/main/files/banner.png)
 
 
 <p align="center"> 
