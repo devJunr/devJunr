@@ -1,17 +1,6 @@
 
 ![Header](https://raw.githubusercontent.com/drianojr/drianojr/main/files/banner.png)
 
-
-<p align="center"> 
-  <samp>
-    <br>
-    「 Sou um estudante de desenvolvimento full-stack <b>brasileiro</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-<div style="display: inline_block">
-
 ## Tecnologias mais utilizadas
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
