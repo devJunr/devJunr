@@ -20,10 +20,10 @@
 <p align="center"> 
   <samp>
     <br>
-    - 💻 Estudante de Desenvolvimento Full Stack.
-    - 👨🏽‍💻 Freelancer - Construção de sites e aplicações web.
-    - 🔭 Explorando tecnologias como Python, API, ssh.
-    - 🎓 Atualmente, estou buscando conhecimento por conta própria.
+    - 💻 Estudante de Desenvolvimento Full Stack. <br>
+    - 👨🏽‍💻 Freelancer - Construção de sites e aplicações web. <br>
+    - 🔭 Explorando tecnologias como Python, API, ssh. <br>
+    - 🎓 Atualmente, estou buscando conhecimento por conta própria. <br>
 
     <br>
     <br>
