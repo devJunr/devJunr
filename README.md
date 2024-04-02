@@ -24,9 +24,6 @@
     - 👨🏽‍💻 Freelancer - Construção de sites e aplicações web. <br>
     - 🔭 Explorando tecnologias como Python, API, ssh. <br>
     - 🎓 Atualmente, estou buscando conhecimento por conta própria. <br>
-
-    <br>
-    <br>
   </samp>
 </p>
 
