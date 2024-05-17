@@ -2,10 +2,6 @@
     <img width="80%" title="Adriano-Logo" src="files/standard.gif"/>
 <div>
 
-<div align="center">
-    <img width="80%" title="Adriano-WebsiteDev" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
-<div>
-
 <div style="display: inline_block">
 
 ## Tecnologias mais utilizadas
