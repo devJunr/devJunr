@@ -1,29 +1,29 @@
-<div align="center">
-    <img width="80%" title="Adriano-Logo" src="files/standard.gif"/>
-<div>
+<div align="center" style="background-color: #3498db; padding: 20px; border-radius: 10px;">
+  <h1 style="color: #ffffff; font-size: 36px;">Adriano</h1>
+</div>
 
-<div style="display: inline_block">
-
-## Tecnologias mais utilizadas
+## Minhas Habilidades
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/LINUX-f7b30b?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
 <img src="https://img.shields.io/badge/debian-d81258?style=for-the-badge&logo=debian&logoColor=1f0809" alt="debian">
 
 
 
-## Ferramentas
+## Tecnologias que eu uso
 <div style="display: inline-block">
 <img src="https://img.shields.io/badge/vscode-0076c6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
 <img src="https://img.shields.io/badge/FileZilla-b80000?style=for-the-badge&logo=FileZilla&logoColor=white" alt="fillezila">
 <img src="https://img.shields.io/badge/GNU/LINUX-557f90?style=for-the-badge&logo=gnu&logoColor=white" alt="gnu/linux">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-</div></br>
 </div>
+</br>
 </br>
 
 <p align="center">
