@@ -1,6 +1,8 @@
-<div align="center" style="background-color: #3498db; padding: 20px; border-radius: 10px;">
-  <h1 style="color: #ffffff; font-size: 36px;">Adriano</h1>
-</div>
+<div align="center">
+    <img width="80%" title="Adriano-Logo" src="files/standard.gif"/>
+<div>
+
+<div style="display: inline_block">
 
 ## Minhas Habilidades
 
@@ -22,8 +24,8 @@
 <img src="https://img.shields.io/badge/GNU/LINUX-557f90?style=for-the-badge&logo=gnu&logoColor=white" alt="gnu/linux">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
+</div></br>
 </div>
-</br>
 </br>
 
 <p align="center">
