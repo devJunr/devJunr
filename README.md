@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/LINUX-f7b30b?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
 <img src="https://img.shields.io/badge/debian-d81258?style=for-the-badge&logo=debian&logoColor=1f0809" alt="debian">
-<img src="https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="CachyOS">
+<img src="https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="ArchLinux">
 
 
 
