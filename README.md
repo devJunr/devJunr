@@ -14,8 +14,6 @@
 <img src="https://img.shields.io/badge/debian-d81258?style=for-the-badge&logo=debian&logoColor=1f0809" alt="debian">
 <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="ArchLinux">
 
-
-
 ## Tecnologias que eu uso
 <div style="display: inline-block">
 <img src="https://img.shields.io/badge/vscode-0076c6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode">
@@ -23,6 +21,9 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
 <img src="https://img.shields.io/badge/FileZilla-b80000?style=for-the-badge&logo=FileZilla&logoColor=white" alt="fillezila">
 <img src="https://img.shields.io/badge/GNU/LINUX-557f90?style=for-the-badge&logo=gnu&logoColor=white" alt="gnu/linux">
+
+## DevOps
+<div style="display: inline-block">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 </div></br>
